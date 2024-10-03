@@ -1,0 +1,15 @@
+Z:\IGMProfile\Desktop\201\classParticipationLogicAndLoops\LogicAndLoops\LogicAndLoops\bin\Debug\net8.0\LogicAndLoops.exe
+Z:\IGMProfile\Desktop\201\classParticipationLogicAndLoops\LogicAndLoops\LogicAndLoops\bin\Debug\net8.0\LogicAndLoops.deps.json
+Z:\IGMProfile\Desktop\201\classParticipationLogicAndLoops\LogicAndLoops\LogicAndLoops\bin\Debug\net8.0\LogicAndLoops.runtimeconfig.json
+Z:\IGMProfile\Desktop\201\classParticipationLogicAndLoops\LogicAndLoops\LogicAndLoops\bin\Debug\net8.0\LogicAndLoops.dll
+Z:\IGMProfile\Desktop\201\classParticipationLogicAndLoops\LogicAndLoops\LogicAndLoops\bin\Debug\net8.0\LogicAndLoops.pdb
+Z:\IGMProfile\Desktop\201\classParticipationLogicAndLoops\LogicAndLoops\LogicAndLoops\obj\Debug\net8.0\LogicAndLoops.GeneratedMSBuildEditorConfig.editorconfig
+Z:\IGMProfile\Desktop\201\classParticipationLogicAndLoops\LogicAndLoops\LogicAndLoops\obj\Debug\net8.0\LogicAndLoops.AssemblyInfoInputs.cache
+Z:\IGMProfile\Desktop\201\classParticipationLogicAndLoops\LogicAndLoops\LogicAndLoops\obj\Debug\net8.0\LogicAndLoops.AssemblyInfo.cs
+Z:\IGMProfile\Desktop\201\classParticipationLogicAndLoops\LogicAndLoops\LogicAndLoops\obj\Debug\net8.0\LogicAndLoops.csproj.CoreCompileInputs.cache
+Z:\IGMProfile\Desktop\201\classParticipationLogicAndLoops\LogicAndLoops\LogicAndLoops\obj\Debug\net8.0\LogicAndLoops.sourcelink.json
+Z:\IGMProfile\Desktop\201\classParticipationLogicAndLoops\LogicAndLoops\LogicAndLoops\obj\Debug\net8.0\LogicAndLoops.dll
+Z:\IGMProfile\Desktop\201\classParticipationLogicAndLoops\LogicAndLoops\LogicAndLoops\obj\Debug\net8.0\refint\LogicAndLoops.dll
+Z:\IGMProfile\Desktop\201\classParticipationLogicAndLoops\LogicAndLoops\LogicAndLoops\obj\Debug\net8.0\LogicAndLoops.pdb
+Z:\IGMProfile\Desktop\201\classParticipationLogicAndLoops\LogicAndLoops\LogicAndLoops\obj\Debug\net8.0\LogicAndLoops.genruntimeconfig.cache
+Z:\IGMProfile\Desktop\201\classParticipationLogicAndLoops\LogicAndLoops\LogicAndLoops\obj\Debug\net8.0\ref\LogicAndLoops.dll

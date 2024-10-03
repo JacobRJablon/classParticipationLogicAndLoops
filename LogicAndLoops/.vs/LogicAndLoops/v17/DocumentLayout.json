@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Z:\\IGMProfile\\Desktop\\201\\classParticipationLogicAndLoops\\LogicAndLoops\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C7404B7-4E5E-4C8A-96C9-1EAB59DAE5E7}|LogicAndLoops\\LogicAndLoops.csproj|z:\\igmprofile\\desktop\\201\\classparticipationlogicandloops\\logicandloops\\logicandloops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C7404B7-4E5E-4C8A-96C9-1EAB59DAE5E7}|LogicAndLoops\\LogicAndLoops.csproj|solutionrelative:logicandloops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Z:\\IGMProfile\\Desktop\\201\\classParticipationLogicAndLoops\\LogicAndLoops\\LogicAndLoops\\Program.cs",
+              "RelativeDocumentMoniker": "LogicAndLoops\\Program.cs",
+              "ToolTip": "Z:\\IGMProfile\\Desktop\\201\\classParticipationLogicAndLoops\\LogicAndLoops\\LogicAndLoops\\Program.cs",
+              "RelativeToolTip": "LogicAndLoops\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwC0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T12:14:29.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
